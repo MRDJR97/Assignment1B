@@ -14,7 +14,7 @@
 	  <dependency>
 	    <groupId>com.github.MRDJR97</groupId>
 	    <artifactId>Assignment1A</artifactId>
-	    <version>3.0</version>
+	    <version>9.2</version>
 	</dependency>
 	</dependencies>
 </project>
